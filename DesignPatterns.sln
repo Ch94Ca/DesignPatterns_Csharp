@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational - Factory", "DesignPatterns\Creational - Factory.csproj", "{6F90A093-92F1-4ED6-B900-DC35AB73D1B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational - AbstractFactory", "Creational - AbstractFactory\Creational - AbstractFactory.csproj", "{3D659913-85A7-4EA8-987D-55E8A1EA4993}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational - AbstractFactory", "Creational - AbstractFactory\Creational - AbstractFactory.csproj", "{3D659913-85A7-4EA8-987D-55E8A1EA4993}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational - Builder", "Builder\Creational - Builder.csproj", "{EECF1BE7-96A4-4B4A-B9FB-8AC475847B1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational - Builder", "Builder\Creational - Builder.csproj", "{EECF1BE7-96A4-4B4A-B9FB-8AC475847B1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structural - Adapter", "Adapter\Structural - Adapter.csproj", "{E69CECB0-E09D-4E85-B75F-4770AD716A11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural - Adapter", "Adapter\Structural - Adapter.csproj", "{E69CECB0-E09D-4E85-B75F-4770AD716A11}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "Bridge\Bridge.csproj", "{C2EC8CBB-598D-4F77-8D44-B4757B89519B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structural - Bridge", "Bridge\Structural - Bridge.csproj", "{C2EC8CBB-598D-4F77-8D44-B4757B89519B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behavioral - ChainOfResponsibility", "ChainOfResponsibility\Behavioral - ChainOfResponsibility.csproj", "{8C017CB4-69C9-43A8-BDA2-FE6DA63CE89B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C2EC8CBB-598D-4F77-8D44-B4757B89519B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2EC8CBB-598D-4F77-8D44-B4757B89519B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2EC8CBB-598D-4F77-8D44-B4757B89519B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C017CB4-69C9-43A8-BDA2-FE6DA63CE89B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C017CB4-69C9-43A8-BDA2-FE6DA63CE89B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C017CB4-69C9-43A8-BDA2-FE6DA63CE89B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C017CB4-69C9-43A8-BDA2-FE6DA63CE89B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
