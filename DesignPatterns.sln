@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Creational - Factory", "Des
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational - AbstractFactory", "Creational - AbstractFactory\Creational - AbstractFactory.csproj", "{3D659913-85A7-4EA8-987D-55E8A1EA4993}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Builder", "Builder\Builder.csproj", "{EECF1BE7-96A4-4B4A-B9FB-8AC475847B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3D659913-85A7-4EA8-987D-55E8A1EA4993}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D659913-85A7-4EA8-987D-55E8A1EA4993}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D659913-85A7-4EA8-987D-55E8A1EA4993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EECF1BE7-96A4-4B4A-B9FB-8AC475847B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EECF1BE7-96A4-4B4A-B9FB-8AC475847B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EECF1BE7-96A4-4B4A-B9FB-8AC475847B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EECF1BE7-96A4-4B4A-B9FB-8AC475847B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
